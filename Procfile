@@ -1,1 +1,1 @@
-web: gunicorn blog2.wsgi
+web: gunicorn codestar2.wsgi
